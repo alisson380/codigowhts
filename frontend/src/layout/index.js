@@ -219,7 +219,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            <center>STOPZAP | MULTIATENDIMENTO</center>
+            <center>LINEDATA | PORTAL DE ATENDIMENTO</center>
           </Typography>
           {user.id && <NotificationsPopOver />}
 
